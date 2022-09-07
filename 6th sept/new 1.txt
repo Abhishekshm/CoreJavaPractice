@@ -1,0 +1,16 @@
+/*
+Program:Understanding data types in java
+@author:Abhishek Sharma
+@date:6th sept 2022
+
+*/
+
+class DataTypeDemo
+{
+	//calling main method
+	public static void main(String arg[])
+	{
+		System.out.println("Hello World"); //Printing hello world
+	}
+	//end of main
+}//end of class DataTypeDemo
